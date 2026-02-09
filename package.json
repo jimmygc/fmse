@@ -1,0 +1,22 @@
+{
+  "name": "mod-settings.editor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/jsoneditor": "^9.9.6",
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@types/json-bigint": "^1.0.4",
+    "buffer": "^6.0.3",
+    "json-bigint": "^1.0.0",
+    "jsoneditor": "^10.4.2",
+    "smart-buffer": "^4.2.0"
+  }
+}
